@@ -6,7 +6,7 @@ of the students in different exams and aggregate them through API. Different RES
 purpose.
 
 ### 1. Create Rule
-```Json
+```
 curl --location 'localhost/expression/index.php' \
 --header 'Content-Type: application/json' \
 --data '{
