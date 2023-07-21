@@ -1,5 +1,18 @@
 <?php
 
+/**
+ * This class is a part of the package 'root path' and the package
+ * is a part of the project expression.
+ *
+ * Integrated ICT Pvt. Ltd. Jwagal, Lalitpur, Nepal.
+ * https://www.integratedict.com.np
+ * https://www.semantro.com
+ *
+ * Created by Santa on 2023-06-18.
+ * Email: sbasnet81[at]gmail[dot]com
+ * Github: https://github.com/santabasnet
+ */
+
 include_once('model\messages.php');
 include_once('lib\text_utils.php');
 include_once('model\search_parameters.php');
