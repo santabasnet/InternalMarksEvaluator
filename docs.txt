@@ -1,0 +1,9 @@
+1. MIS system: already exists.
+	students/teacher they have their login.
+	returns: some token.
+
+2. Component: internal_marks evaluation.
+	we authorize by token. (we get token from existing system.)
+
+3. Tripplet: ??
+	

@@ -1,0 +1,7 @@
+{
+  "require": {
+    "mossadal/math-parser": "v1.3.16",
+    "ramsey/uuid": "^4.7",
+    "ext-mysqli": "*"
+  }
+}
